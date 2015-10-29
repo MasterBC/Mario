@@ -1,0 +1,13 @@
+﻿  main.cpp
+  ProgressBar.cpp
+  MenuCtrl.cpp
+  Mario.cpp
+  LayerStart.cpp
+  LayerMenu.cpp
+  LayerGame.cpp
+  AppDelegate.cpp
+  正在生成代码...
+  复制了 2 个文件
+  LINK : 没有找到 E:\cocos2d-x-2.2.6\projects\Mario\proj.win32\Debug.win32\Mario.exe 或上一个增量链接没有生成它；正在执行完全链接
+AppDelegate.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  Mario.vcxproj -> E:\cocos2d-x-2.2.6\projects\Mario\proj.win32\Debug.win32\Mario.exe
